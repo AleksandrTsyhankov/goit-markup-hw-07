@@ -1,0 +1,25 @@
+.logotype {
+    font-family: var(--logo-font);
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.192;
+    color: var(--accent-color);
+}
+
+.logo-margin-header {
+    margin-right: 93px;
+    padding-top: 24.6px;
+    padding-bottom: 25px;
+}
+
+.logotype-studio-light-theme {
+    color: #000000;
+}
+
+.logotype-studio-dark-theme {
+    color: var(--header-hero-btn-color);
+}
+
+.logo-margin-footer {
+    margin-bottom: 20px;
+}
